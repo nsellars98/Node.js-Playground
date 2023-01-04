@@ -1,0 +1,4 @@
+No history available. Create a log to record it here.
+{"msg":"Log 1","id":"1e4a7b7c-914b-4aeb-a14d-60d0d0c7b0f9"}
+{"msg":"Log 3","id":"eb6569c6-634d-4d94-95bc-45433ec3096d"}
+{"msg":"Log 2","id":"40f90a20-16da-42af-9e89-05fe3596bb00"}
